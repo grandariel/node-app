@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grandariel/node-app/issues"
   },
-  "homepage": "https://github.com/grandariel/node-app#readme"
+  "homepage": "https://github.com/grandariel/node-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
